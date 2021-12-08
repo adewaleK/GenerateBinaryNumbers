@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Week7-WhiteBoard\Week7-WhiteBoard\bin\Debug\netcoreapp3.1\Week7-WhiteBoard.exe
+C:\Users\hp\source\repos\Week7-WhiteBoard\Week7-WhiteBoard\bin\Debug\netcoreapp3.1\Week7-WhiteBoard.deps.json
+C:\Users\hp\source\repos\Week7-WhiteBoard\Week7-WhiteBoard\bin\Debug\netcoreapp3.1\Week7-WhiteBoard.runtimeconfig.json
+C:\Users\hp\source\repos\Week7-WhiteBoard\Week7-WhiteBoard\bin\Debug\netcoreapp3.1\Week7-WhiteBoard.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Week7-WhiteBoard\Week7-WhiteBoard\bin\Debug\netcoreapp3.1\Week7-WhiteBoard.dll
+C:\Users\hp\source\repos\Week7-WhiteBoard\Week7-WhiteBoard\bin\Debug\netcoreapp3.1\Week7-WhiteBoard.pdb
+C:\Users\hp\source\repos\Week7-WhiteBoard\Week7-WhiteBoard\obj\Debug\netcoreapp3.1\Week7-WhiteBoard.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Week7-WhiteBoard\Week7-WhiteBoard\obj\Debug\netcoreapp3.1\Week7-WhiteBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Week7-WhiteBoard\Week7-WhiteBoard\obj\Debug\netcoreapp3.1\Week7-WhiteBoard.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Week7-WhiteBoard\Week7-WhiteBoard\obj\Debug\netcoreapp3.1\Week7-WhiteBoard.AssemblyInfo.cs
+C:\Users\hp\source\repos\Week7-WhiteBoard\Week7-WhiteBoard\obj\Debug\netcoreapp3.1\Week7-WhiteBoard.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Week7-WhiteBoard\Week7-WhiteBoard\obj\Debug\netcoreapp3.1\Week7-WhiteBoard.dll
+C:\Users\hp\source\repos\Week7-WhiteBoard\Week7-WhiteBoard\obj\Debug\netcoreapp3.1\Week7-WhiteBoard.pdb
+C:\Users\hp\source\repos\Week7-WhiteBoard\Week7-WhiteBoard\obj\Debug\netcoreapp3.1\Week7-WhiteBoard.genruntimeconfig.cache
